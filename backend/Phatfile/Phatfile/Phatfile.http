@@ -1,0 +1,6 @@
+@Phatfile_HostAddress = http://localhost:5029
+
+GET {{Phatfile_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
